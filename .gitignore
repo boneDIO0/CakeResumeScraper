@@ -1,0 +1,9 @@
+# 忽略 JSON / CSV 輸出結果
+*.json
+*.csv
+
+# 忽略 Python 編譯檔
+__pycache__/
+
+# 忽略環境設定檔
+.env
