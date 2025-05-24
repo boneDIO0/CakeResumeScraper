@@ -4,6 +4,7 @@
 
 # 忽略 Python 編譯檔
 __pycache__/
+log/
 
 # 忽略環境設定檔
 .env
